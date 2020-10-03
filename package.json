@@ -1,0 +1,21 @@
+{
+    "name": "codeowl",
+    "displayName": "code-owl",
+    "description": "complete code owl ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code Owl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Code Owl-color-theme.json"
+            }
+        ]
+    }
+}
